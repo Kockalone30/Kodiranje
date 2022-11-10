@@ -1,0 +1,21 @@
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.csproj.AssemblyReference.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.AssemblyInfoInputs.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.AssemblyInfo.cs
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.csproj.CoreCompileInputs.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Selenium Prvi Test.exe
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Selenium Prvi Test.deps.json
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Selenium Prvi Test.runtimeconfig.json
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Selenium Prvi Test.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Selenium Prvi Test.pdb
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\bin\Debug\net6.0\WebDriver.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.csproj.CopyComplete
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\refint\Selenium Prvi Test.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.pdb
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\Selenium Prvi Test.genruntimeconfig.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium Prvi Test\Selenium Prvi Test\obj\Debug\net6.0\ref\Selenium Prvi Test.dll
